@@ -44,3 +44,10 @@ libraries by scanning project source files.
 
 More information about PlatformIO Library Dependency Finder
 - https://docs.platformio.org/page/librarymanager/ldf.html
+
+esp
+├── include/
+│   └── html_content.h   # Archivo con el contenido HTML
+├── src/
+│   └── main.cpp         # Archivo principal
+└── platformio.ini       # Configuración de PlatformIO
