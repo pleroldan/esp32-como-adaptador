@@ -179,10 +179,9 @@ sequenceDiagram
 - [Librería WebServer](https://github.com/espressif/arduino-esp32)
 - [Ejemplos WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi/examples)
 
----
 
 > ✨ **Documentación completa**  
-> 📅 Última actualización: 2023-11-15  
+> 📅 Última actualización: 02/Abr/2025 
 > 🔗 **Repositorio**: [github.com/tuusuario/esp32-wifi-adapter](https://github.com/tuusuario/esp32-wifi-adapter)
-```
+
 
