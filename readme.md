@@ -165,6 +165,14 @@ sequenceDiagram
 |---------|--------------------|
 | 1.0.0   | Versión inicial    |
 | 1.1.0   | Mejoras de interfaz|
+| 1.1.1   | Identificacion de issues|
+
+
+## 🔄 Historial de isues encontradas
+
+| Versión | Problema            |
+|---------|--------------------|
+| 1.1.1   | No identifica la web de forma automatica    |
 
 ## 📚 Recursos Adicionales
 - [Documentación ESP32](https://docs.espressif.com/)
@@ -178,12 +186,3 @@ sequenceDiagram
 > 🔗 **Repositorio**: [github.com/tuusuario/esp32-wifi-adapter](https://github.com/tuusuario/esp32-wifi-adapter)
 ```
 
-Este archivo Markdown contiene:
-1. Todos los componentes organizados jerárquicamente
-2. Diagramas Mermaid funcionales
-3. Bloques de código correctamente delimitados
-4. Tablas bien formateadas
-5. Secciones claramente diferenciadas
-6. Enlaces y referencias
-
-El documento está listo para guardarse con extensión .md y visualizarse correctamente en cualquier visor Markdown compatible con Mermaid.js.
